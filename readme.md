@@ -44,12 +44,12 @@ The goal of this project is to simulate a professional-grade flight booking expe
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/flight-booking-website.git
+        git clone https://github.com/your-username/flight-booking-website.git
 
 
 2. Navigate to the project folder:
 
-    cd "Online Tour Guide"
+        cd "Online Tour Guide"
 
 📂 Folder Structure
 
@@ -69,6 +69,7 @@ flight-booking-website/
 
 
 📈 Future Improvements
+
 🌐 Integrate real-time weather APIs (like OpenWeatherMap) for live temperature data
 
 🔐 Add user authentication (login/signup)
@@ -76,8 +77,6 @@ flight-booking-website/
 💳 Payment gateway simulation
 
 📅 Dynamic calendar with blackout dates or holiday highlights
-
-📊 Add price prediction or trends
 
 ✅ Live Demo
 
