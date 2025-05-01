@@ -79,7 +79,7 @@ flight-booking-website/
 
 📅 Dynamic calendar with blackout dates or holiday highlights
 
-✅ Live Demo to implemented soon
+✅ Live Demo to be implemented soon
 
 
 Author : Bishnu Prasad Sahu
