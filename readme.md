@@ -1,4 +1,4 @@
-# ✈️ Flight Booking Website
+# ✈️ Flight Booking UI Demo Website
 
 A **responsive, interactive, and feature-rich flight booking website** built using **HTML**, **CSS**, and **JavaScript**. This project simulates the user experience of booking flights online, complete with intuitive date pickers, dynamic form validation, responsive design, and additional features like weather and temperature display.
 
